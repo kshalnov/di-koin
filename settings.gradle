@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "di1"
 include ':app'
+include ':dil'
